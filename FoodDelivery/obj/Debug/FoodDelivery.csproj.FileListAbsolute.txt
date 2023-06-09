@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\bin\Debug\FoodDelivery.exe.config
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\bin\Debug\FoodDelivery.exe
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\bin\Debug\FoodDelivery.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.exe
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.pdb
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.Migrations.NewWhithDescription.resources
+C:\Users\STUDENTS-STEM-7\Desktop\Georgi 11d\FoodDelivery\FoodDelivery\obj\Debug\FoodDelivery.csproj.GenerateResource.cache
